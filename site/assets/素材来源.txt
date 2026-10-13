@@ -1,0 +1,4 @@
+人物横幅与背景：游戏官方商店素材。
+游戏截图：https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/ss_b59e5889726cab2cf01a93d0c0d192d25928952a.1920x1080.jpg?t=1765811123
+标题字体：思源宋体同源的中文开源衬线字体，许可见 font-license.txt。
+游戏美术版权归拉瑞安工作室及相关权利人所有。
