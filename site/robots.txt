@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ga4dermind.github.io/Test-1/sitemap.xml
